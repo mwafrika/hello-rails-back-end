@@ -1,24 +1,41 @@
-# README
+# HELLO RAILS AND REACT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a simple example of a React and Rails application. It displays a random message from a list of messages.
 
-Things you may want to cover:
+## FRONTEND APP LINK
 
-* Ruby version
+[REACT APP LINK](https://github.com/mwafrika/hello-react-front-end)
 
-* System dependencies
+## GETTING STARTED
 
-* Configuration
+To get started, you need to install the necessary dependencies.
 
-* Database creation
+Run the following commands
 
-* Database initialization
+- To install the dependencies: `bundle install`
+- To create the local database: `rails db:create`
+- To seed the database: `rails db:seed`
 
-* How to run the test suite
+## About me
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 Mwafrika
 
-* Deployment instructions
+GitHub: @mwafrika
 
-* ...
+LinkedIn: mwafrika-mufungizi
+
+Twitter: @mwafrikamufung1
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## License
+
+This is a MIT licensed project.
