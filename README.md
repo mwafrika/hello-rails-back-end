@@ -2,6 +2,10 @@
 
 This project is a simple example of a React and Rails application. It displays a random message from a list of messages.
 
+## FRONTEND APP LINK
+
+[REACT APP LINK](https://github.com/mwafrika/hello-react-front-end)
+
 ## GETTING STARTED
 
 To get started, you need to install the necessary dependencies.
